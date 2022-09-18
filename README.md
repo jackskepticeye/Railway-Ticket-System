@@ -1,5 +1,11 @@
-<img width="338" alt="1" src="https://user-images.githubusercontent.com/60337834/190900504-6e620ce1-1447-4b94-947e-1fa054044115.png">
 # Unreserved Railway Ticket System (UTS)
+
+<img width="338" alt="1" src="https://user-images.githubusercontent.com/60337834/190900504-6e620ce1-1447-4b94-947e-1fa054044115.png">
+<img width="796" alt="2" src="https://user-images.githubusercontent.com/60337834/190900549-2a8c0657-408c-4dc9-a97d-4ce9069b8228.png">
+<img width="1345" alt="3" src="https://user-images.githubusercontent.com/60337834/190900566-89d0b81d-3dba-48c4-8901-4ec15ad74f8e.png">
+<img width="721" alt="4" src="https://user-images.githubusercontent.com/60337834/190900570-233dfa81-90fe-43e3-86ae-cab77b2a96fa.png">
+<img width="647" alt="5" src="https://user-images.githubusercontent.com/60337834/190900577-5ef85a16-2c51-4329-aafd-678dc5a60212.png">
+
 
 # How to Run This Project :
 
